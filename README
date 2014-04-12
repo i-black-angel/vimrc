@@ -1,0 +1,6 @@
+This directory stores my .vim/ and .vimrc files
+
+HOW-TO
+-------------------
+$ cp .vimrc ~
+$ cp -r .vim ~
