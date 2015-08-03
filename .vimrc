@@ -76,11 +76,14 @@ set autoread
 " "How many tenths of a second to blink
  set mat=2
 "
-" "Highlight search things
- set hlsearch
-" "imediately show the search result
- set is
-"
+"Highlight search things
+set hlsearch
+"imediately show the search result
+set is
+set ignorecase
+set smartcase
+set nowrapscan
+
 "set autoindent
 set ai
 
